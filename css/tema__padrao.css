@@ -11,10 +11,9 @@
 
 }
 
-.teste{
-    background-color: var(--corPrincipal);
+*{
+    font-family:'Poppins', sans-serif;
 }
-
 p{
     color: var(--corPrincipal)
 }
