@@ -1,18 +1,64 @@
 body{
     color: var(--corBranco);
     background-color: var(--corPrincipal);
+    background-image: url(../assets/imgs/Forma\ 1.png);
+    background-repeat: no-repeat;
+    background-size:100%;
+    
 }
+
+.home__botao{
+    background-color: var(--corBotao);
+    border-radius: 6px;
+    color: var(--corBranco);
+    padding: .8rem;
+    text-align: center;
+    text-decoration: none;
+    width:80%;
+
+}
+.home__botao:hover{
+    background-color: var(--corBotaoHover)
+}
+
+.home__botoes{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    justify-content: center;
+    margin-top: .5rem;
+    width: 100%;
+
+   
+}
+.home__botoes::after{
+    background-image: url(../assets/imgs/Ilustração_\(1\).png);
+    background-repeat: no-repeat;
+    background-size:50%;
+    /* background-position-x:50%;
+    background-position-y:50% */
+}
+
 .home__container{
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap:.5rem
+    gap:.5rem;
+    padding:4rem;
+    margin-top: 30%;
+    
+    background-image: url(../assets/imgs/Forma\ 2.png);
+    background-repeat: no-repeat;
+    background-size:25%;
+    background-position-x:100%
 }
 
 .home__logo{
     display: block;
     margin: 1rem auto;
+    
 }
 
 .home__paragrafo{
