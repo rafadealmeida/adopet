@@ -1,11 +1,3 @@
-body{
-    color: var(--corBranco);
-    background-color: var(--corPrincipal);
-    background-image: url(../assets/imgs/Forma\ 1.png);
-    background-repeat: no-repeat;
-    background-size:100%;
-    
-}
 
 .home__botao{
     background-color: var(--corBotao);
@@ -33,9 +25,7 @@ body{
    
 }
 .home__botoes::after{
-    background-image: url(../assets/imgs/Ilustração_\(1\).png);
-    background-repeat: no-repeat;
-    background-size:50%;
+   
     /* background-position-x:50%;
     background-position-y:50% */
 }
@@ -46,13 +36,32 @@ body{
     align-items: center;
     justify-content: center;
     gap:.5rem;
-    padding:4rem;
+    padding:4rem 4rem 0 4rem ;
     margin-top: 30%;
     
     background-image: url(../assets/imgs/Forma\ 2.png);
     background-repeat: no-repeat;
-    background-size:25%;
-    background-position-x:100%
+    background-size:30%;
+    background-position-x:118%
+}
+
+.home__ilustracao{
+    background-image: url(../assets/imgs/Ilustração_\(1\).png);
+    background-repeat: no-repeat;
+    background-size:80%;
+    background-position-x: 20%;
+    background-position-y:110% ;
+    
+    padding: 10rem;
+    margin-top:3.5rem;
+    z-index: -10;
+}
+
+.home__links{
+    display: flex;
+    gap:3rem;
+    margin: 4rem 4.5rem;
+    scale:1.2;
 }
 
 .home__logo{

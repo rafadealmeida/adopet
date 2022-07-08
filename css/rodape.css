@@ -1,6 +1,7 @@
 .rodape {
     background-color: var(--corSecundaria);
-    margin-top: 100%;
+    margin-top: -1.5rem;
+    padding: 1rem 0;
 }
 
 .rodape__paragrafo {
