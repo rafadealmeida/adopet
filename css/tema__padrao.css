@@ -20,7 +20,7 @@ p{
 
 body{
     color: var(--corBranco);
-    background-color: var(--corPrincipal);
+    
     background-image: url(../assets/imgs/Forma\ 1.png);
     background-repeat: no-repeat;
     background-size:100%;

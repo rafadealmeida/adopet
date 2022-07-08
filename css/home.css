@@ -1,3 +1,6 @@
+body{
+    background-color: var(--corPrincipal);
+}
 
 .home__botao{
     background-color: var(--corBotao);
