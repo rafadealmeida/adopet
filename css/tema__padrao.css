@@ -1,3 +1,7 @@
+@import url(../css/rodape.css);
+@import url(../css/nav.css);
+
+
 :root{
     --corPrincipal: #3772FF;
     --corSecundaria: #36D6AD;

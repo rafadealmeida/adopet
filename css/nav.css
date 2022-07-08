@@ -1,0 +1,6 @@
+.home__links{
+    display: flex;
+    gap:3rem;
+    margin: 4rem 4.5rem;
+    scale:1.2;
+}
