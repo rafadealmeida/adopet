@@ -1,0 +1,12 @@
+.login__logo{
+    display: block;
+    margin: 1rem auto;
+    scale: 0.6
+}
+
+.login__titulo, .login__titulo>h1{
+    color: var(--corPrincipal);
+    font-weight:400;
+    text-align: center;
+    padding: 0 2rem;
+}
