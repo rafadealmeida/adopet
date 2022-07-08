@@ -24,11 +24,6 @@
 
    
 }
-.home__botoes::after{
-   
-    /* background-position-x:50%;
-    background-position-y:50% */
-}
 
 .home__container{
     display: flex;
