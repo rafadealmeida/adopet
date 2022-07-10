@@ -1,9 +1,3 @@
-.link__senha{
-    color:var(--corBotao);
-    font-size: 12px;
-    margin-top:.5rem;
-
-}
 
 .login__container{
     background-image: url(../assets/imgs/Forma\ 3.png);

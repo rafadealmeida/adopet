@@ -1,0 +1,18 @@
+.formulario__base--titulo{
+    text-align: center;
+    color:var(--corLetraFormulario);
+    font-weight :600;
+    font-size :21px
+}
+
+.formulario__base--foto{
+    width :30%;
+    border-radius:50%;
+    display: block;
+    margin: 1rem auto;
+}
+
+.link__padrao--perfil {
+    text-align: center;
+    text-decoration: none;
+}

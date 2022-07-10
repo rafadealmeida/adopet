@@ -1,6 +1,12 @@
 .home__links{
     display: flex;
     gap:3rem;
-    margin: 4rem 4.5rem;
+    margin: 3rem 4.5rem;
     scale:1.2;
+    align-items: center
+}
+
+.nav__usuario{
+    margin-left: 4rem;
+    margin-top: .2rem;
 }
