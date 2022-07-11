@@ -9,7 +9,7 @@
     width :30%;
     border-radius:50%;
     display: block;
-    margin: 1rem auto;
+    margin: 1rem auto 0;
 }
 
 .link__padrao--perfil {
