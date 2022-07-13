@@ -9,4 +9,8 @@
         margin-top: 15%;
         
     }
+
+    .login__container--responsivo{
+        margin-top:5%;
+    }
 }
