@@ -10,3 +10,15 @@
     margin-left: 4rem;
     margin-top: .2rem;
 }
+
+@media screen and (min-width: 768px){
+   .home__links{
+    margin: 2.5rem 5rem;
+    padding: 1rem 12rem;
+
+    background-image: url(../assets/imgs/Logo.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 25%;
+   }
+}

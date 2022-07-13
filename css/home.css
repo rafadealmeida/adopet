@@ -35,15 +35,43 @@ body{
     
 }
 
-.home__paragrafo{
+.home__paragrafo, .home__paragrafo--responsivo{
     color:var(--corBranco)
+    
 }
 
 .home__titulo{
     font-family: 'IBM Plex Sans', sans-serif;
 }
 
-.home__paragrafo, .home__titulo{
+.home__paragrafo, .home__titulo, .home__paragrafo--responsivo{
     text-align: center
 
+}
+.home__paragrafo--responsivo{
+    display: none;
+}
+
+@media screen and (min-width: 768px) {
+    .home__container{
+        background-size: 15%;
+        background-position-y:25%;
+        background-position-x:100%;
+
+        padding: 3rem 12rem;
+        margin-top: 15%;
+        
+    }
+
+    .home__ilustracao{
+       margin-top: 22%;
+    }
+
+    .home__paragrafo{
+        display:none;
+    }
+    .home__paragrafo--responsivo{
+        display: inline;
+        padding: 0 2rem;
+    }
 }
