@@ -23,8 +23,17 @@
     .login__container{
         margin-top:0;
 
-        background-position-y:40%;
-        background-size: 8%;
+        background-position-y:100%;
+        background-size: 7%;
+        margin-bottom: 6%;
+    }
+
+    .formulario__input{
+        width:40%;
+    }
+
+    .formulario__input--desktop{
+        width:60%;
     }
 
     
