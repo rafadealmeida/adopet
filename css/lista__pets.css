@@ -1,5 +1,6 @@
 .ficha__pet, .lista__pets{
     display: flex;
+    margin: 0 auto;
 }
 
 .ficha__pet{
@@ -55,8 +56,29 @@
 
 @media screen and (min-width: 768px){
     .lista__pets{
-        width: 95%;
+        width: 100%;
         flex-direction: row;
         margin: 7.5rem auto 5rem ;
+        flex-wrap: wrap;
+    }
+    .ficha__pet{
+        width: 49%;
     }
 }
+
+
+@media screen and (min-width: 1080px){
+    .lista__pets{
+        width: 85%;
+        flex-direction: row;
+        margin: 1rem auto 5rem ;
+        flex-wrap: wrap;
+        gap: .5rem;
+    }
+    .ficha__pet{
+        width: 30%;
+    }
+}
+
+
+
