@@ -1,8 +1,11 @@
 .botao{
     background-color: var(--corBotao);
+    border-radius: 6px;
+    border: 0;
     color: var(--corBranco);
     font-size: 16px;
     font-weight:600;
+    padding: .5rem 0 ;
     width: 50%;
     margin: 10% auto 0;
 }
@@ -29,4 +32,12 @@
 
 .mensagem__input:placeholder {
     margin-left: .2rem;
+}
+
+
+@media screen and (min-width: 768px){
+    .formulario__base{
+        margin: 1rem auto 7.5rem;
+        width: 75%;
+    }
 }
