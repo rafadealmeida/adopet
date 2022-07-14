@@ -83,11 +83,25 @@ body{
         background-position-y:0;
         background-size: 8%;
     }
+
+    .home__logo{
+        display: block;
+        margin: 1rem auto;
+        scale: 1.5;
+        margin-bottom: 2rem;
+        
+    }
    
     .home__paragrafo--responsivo{
         padding: 0 35%;
+        font-size: 18px;
     }
     .home__ilustracao{
         margin-top:6%
+    }
+
+    .home__titulo{
+        font-size: 28px;
+        margin-bottom: 2rem;
     }
 }

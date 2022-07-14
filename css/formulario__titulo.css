@@ -19,3 +19,14 @@
         padding: 0 3rem;
     }
 }
+
+@media  screen and (min-width: 1080px){
+    .login__logo{
+        scale: 1;
+        margin:-5% auto 0 ;
+    }
+    .login__titulo, .login__titulo>h1{
+        margin-top: 0;
+        padding: 1rem 3rem;
+    }
+}

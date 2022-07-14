@@ -53,16 +53,7 @@ body{
     text-align: center;
 }
 
-@media screen and (min-width: 768px) {
-    .login__container{
-        background-image: url(../assets/imgs/Forma\ 2.png);
-        background-size: 15%;
-        background-position-y:25%;
-        background-position-x:100%;
 
-        padding: 5rem 12rem;
-        margin-top: 15%;
-        
-    }
-}
+
+
 

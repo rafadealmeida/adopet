@@ -14,3 +14,19 @@
         margin-top:5%;
     }
 }
+
+@media screen and (min-width: 1080px){
+    body{
+        background-size:40% , 15%;
+    }
+
+    .login__container{
+        margin-top:0;
+
+        background-position-y:40%;
+        background-size: 8%;
+    }
+
+    
+}
+
