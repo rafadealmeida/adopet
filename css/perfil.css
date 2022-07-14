@@ -16,3 +16,9 @@
     text-align: center;
     text-decoration: none;
 }
+
+@media screen and (min-width: 1080px){
+    .formulario__base--foto{
+        width :20%
+    }
+}

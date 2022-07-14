@@ -1,3 +1,8 @@
 .nav__usuario{
     margin-left: 90%;
 }
+@media screen and (min-width: 1080px){
+    .nav__usuario{
+        margin-left: 100%;
+    }
+}

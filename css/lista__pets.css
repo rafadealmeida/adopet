@@ -69,7 +69,7 @@
 
 @media screen and (min-width: 1080px){
     .lista__pets{
-        width: 85%;
+        width: 75%;
         flex-direction: row;
         margin: 1rem auto 5rem ;
         flex-wrap: wrap;
@@ -77,6 +77,15 @@
     }
     .ficha__pet{
         width: 30%;
+    }
+
+    .login__container{
+        background-image: url(../assets/imgs/Forma\ 2.png);
+        background-size: 5%;
+        background-position-y:20%;
+        background-position-x:100%;
+        background-repeat: no-repeat;
+
     }
 }
 

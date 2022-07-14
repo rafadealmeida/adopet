@@ -41,3 +41,20 @@
         width: 75%;
     }
 }
+
+@media screen and (min-width: 1080px){
+    .login__container{
+        background-image: url(../assets/imgs/Forma\ 2.png);
+        background-size: 7%;
+        background-position-y:25%;
+        background-position-x:100%;
+        background-repeat: no-repeat;
+
+        
+    }
+
+    .formulario__base{
+        width: 35%;
+        margin-top: -2%;
+    }
+}
