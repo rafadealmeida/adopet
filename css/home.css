@@ -75,3 +75,19 @@ body{
         padding: 0 2rem;
     }
 }
+
+@media screen and (min-width: 1080px){
+    .home__container{
+        margin-top:5%;
+
+        background-position-y:0;
+        background-size: 8%;
+    }
+   
+    .home__paragrafo--responsivo{
+        padding: 0 35%;
+    }
+    .home__ilustracao{
+        margin-top:6%
+    }
+}

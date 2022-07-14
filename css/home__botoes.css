@@ -23,3 +23,9 @@
 
    
 }
+
+@media screen and (min-width: 1080px){
+    .home__botao{
+        width: 30%;
+    }
+}

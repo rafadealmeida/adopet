@@ -22,3 +22,15 @@
     background-size: 25%;
    }
 }
+
+@media screen and (min-width: 1080px){
+    .home__links{
+        margin: 2.5rem 5rem;
+        padding: 1rem 30rem;
+    
+        background-image: url(../assets/imgs/Logo.png);
+        background-repeat: no-repeat;
+        background-position-x: 15%;
+        background-size: 10%;
+       }
+}
