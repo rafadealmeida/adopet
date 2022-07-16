@@ -28,7 +28,8 @@
     .login__titulo, .login__titulo>h1{
         margin-top: 0;
         padding: 1rem 3rem;
-        font-size:18px
+        font-size:18px;
+        margin-bottom:3rem
     }
     .login__container{
         margin-top:7%
