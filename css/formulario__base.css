@@ -56,5 +56,6 @@
     .formulario__base{
         width: 35%;
         margin-top: -2%;
+        font-size: 16px;
     }
 }
