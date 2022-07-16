@@ -3,6 +3,7 @@
 }
 @media screen and (min-width: 1080px){
     .nav__usuario{
-        margin-left: 100%;
+        margin-left: 125%;
+        scale: 1.5;
     }
 }
