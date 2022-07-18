@@ -1,7 +1,7 @@
 {
     "pets":[
     {
-        "imagem":"caminho",
+        "imagem":"../assets/Adopet__pets/Imagem Dunga.png",
         "nome": "Dunga",
         "idade": "2 anos",
         "porte": "Porte pequeno",
@@ -11,7 +11,7 @@
         
     },
     {
-        "imagem":"caminho",
+        "imagem":"../assets/Adopet__pets/Imagem Felícia.png",
         "nome": "Felícia",
         "idade": "3 meses",
         "porte": "Porte pequeno",
@@ -21,7 +21,7 @@
         
     },
     {
-        "imagem":"caminho",
+        "imagem":"../assets/Adopet__pets/Imagem Sirius.png",
         "nome": "Sirius",
         "idade": "6 meses",
         "porte": "Porte grande",
@@ -31,72 +31,62 @@
         
     },
     {
-        "imagem":"caminho",
-        "nome": "Dunga",
-        "idade": "2 anos",
+        "imagem":"../assets/Adopet__pets/Imagem Fiona.png",
+        "nome": "Fiona",
+        "idade": "3 anos",
         "porte": "Porte pequeno",
-        "Comportamento": "Calmo e educado",
+        "Comportamento": "Calmo e carinhosa",
         "Localidade": "São Gonçalo (RJ)",
         "id" : "4"
         
     },
     {
-        "imagem":"caminho",
-        "nome": "Dunga",
-        "idade": "2 anos",
-        "porte": "Porte pequeno",
-        "Comportamento": "Calmo e educado",
+        "imagem":"../assets/Adopet__pets/Imagem Sid.png",
+        "nome": "Sid",
+        "idade": "8 messages",
+        "porte": "Porte médio/grande",
+        "Comportamento": "Brincalhão e amável",
         "Localidade": "Rio da Janeiro (RJ)",
         "id" : "5"
         
     },
     {
-        "imagem":"caminho",
-        "nome": "Dunga",
-        "idade": "2 anos",
-        "porte": "Porte pequeno",
-        "Comportamento": "Calmo e educado",
+        "imagem":"../assets/Adopet__pets/Imagem Yoda.png",
+        "nome": "Yoda",
+        "idade": "1 anos",
+        "porte": "Porte médio",
+        "Comportamento": "Ativa e carinhoso",
         "Localidade": "Nova Iguaçu (RJ)",
-        "id" : "5"
-        
-    },
-    {
-        "imagem":"caminho",
-        "nome": "Dunga",
-        "idade": "2 anos",
-        "porte": "Porte pequeno",
-        "Comportamento": "Calmo e educado",
-        "Localidade": "Rio da Janeiro (RJ)",
         "id" : "6"
         
     },
     {
-        "imagem":"caminho",
-        "nome": "Dunga",
-        "idade": "2 anos",
-        "porte": "Porte pequeno",
-        "Comportamento": "Calmo e educado",
+        "imagem":"../assets/Adopet__pets/Imagem Lua.png",
+        "nome": "Lua",
+        "idade": "6 meses",
+        "porte": "Porte médio",
+        "Comportamento": "Ativa e carinhosa",
         "Localidade": "Duque de caxias (RJ)",
         "id" : "7"
         
     },
     {
-        "imagem":"caminho",
-        "nome": "Dunga",
-        "idade": "2 anos",
-        "porte": "Porte pequeno",
-        "Comportamento": "Calmo e educado",
-        "Localidade": "Rio da Janeiro (RJ)",
+        "imagem":"../assets/Adopet__pets/Imagem Amora.png",
+        "nome": "Amora",
+        "idade": "45 dias",
+        "porte": "Porte grande",
+        "Comportamento": "Calmo e carinhosa",
+        "Localidade": "São Gonçalo (RJ)",
         "id" : "8"
         
     },
     {
-        "imagem":"caminho",
-        "nome": "Dunga",
-        "idade": "2 anos",
-        "porte": "Porte pequeno",
-        "Comportamento": "Calmo e educado",
-        "Localidade": "São Gonçalo (RJ)",
+        "imagem":"../assets/Adopet__pets/Imagem Zelda.png",
+        "nome": "Zelda",
+        "idade": "5 meses",
+        "porte": "Porte médio",
+        "Comportamento": "Ativa e amável",
+        "Localidade": "Rio da Janeiro (RJ)",
         "id" : "9"
         
     }
