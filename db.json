@@ -5,8 +5,8 @@
         "nome": "Dunga",
         "idade": "2 anos",
         "porte": "Porte pequeno",
-        "Comportamento": "Calmo e educado",
-        "Localidade": "Rio da Janeiro (RJ)",
+        "comportamento": "Calmo e educado",
+        "localidade": "Rio da Janeiro (RJ)",
         "id" : "1"
         
     },
@@ -15,8 +15,8 @@
         "nome": "Felícia",
         "idade": "3 meses",
         "porte": "Porte pequeno",
-        "Comportamento": "Ativa e carinhosa",
-        "Localidade": "Nova Iguaçu (RJ)",
+        "comportamento": "Ativa e carinhosa",
+        "localidade": "Nova Iguaçu (RJ)",
         "id" : "2"
         
     },
@@ -25,8 +25,8 @@
         "nome": "Sirius",
         "idade": "6 meses",
         "porte": "Porte grande",
-        "Comportamento": "Agitado e educado",
-        "Localidade": "Duque de caxias (RJ)",
+        "comportamento": "Agitado e educado",
+        "localidade": "Duque de caxias (RJ)",
         "id" : "3"
         
     },
@@ -35,8 +35,8 @@
         "nome": "Fiona",
         "idade": "3 anos",
         "porte": "Porte pequeno",
-        "Comportamento": "Calmo e carinhosa",
-        "Localidade": "São Gonçalo (RJ)",
+        "comportamento": "Calmo e carinhosa",
+        "localidade": "São Gonçalo (RJ)",
         "id" : "4"
         
     },
@@ -45,8 +45,8 @@
         "nome": "Sid",
         "idade": "8 messages",
         "porte": "Porte médio/grande",
-        "Comportamento": "Brincalhão e amável",
-        "Localidade": "Rio da Janeiro (RJ)",
+        "comportamento": "Brincalhão e amável",
+        "localidade": "Rio da Janeiro (RJ)",
         "id" : "5"
         
     },
@@ -55,8 +55,8 @@
         "nome": "Yoda",
         "idade": "1 anos",
         "porte": "Porte médio",
-        "Comportamento": "Ativa e carinhoso",
-        "Localidade": "Nova Iguaçu (RJ)",
+        "comportamento": "Ativa e carinhoso",
+        "localidade": "Nova Iguaçu (RJ)",
         "id" : "6"
         
     },
@@ -65,8 +65,8 @@
         "nome": "Lua",
         "idade": "6 meses",
         "porte": "Porte médio",
-        "Comportamento": "Ativa e carinhosa",
-        "Localidade": "Duque de caxias (RJ)",
+        "comportamento": "Ativa e carinhosa",
+        "localidade": "Duque de caxias (RJ)",
         "id" : "7"
         
     },
@@ -75,8 +75,8 @@
         "nome": "Amora",
         "idade": "45 dias",
         "porte": "Porte grande",
-        "Comportamento": "Calmo e carinhosa",
-        "Localidade": "São Gonçalo (RJ)",
+        "comportamento": "Calmo e carinhosa",
+        "localidade": "São Gonçalo (RJ)",
         "id" : "8"
         
     },
@@ -85,8 +85,8 @@
         "nome": "Zelda",
         "idade": "5 meses",
         "porte": "Porte médio",
-        "Comportamento": "Ativa e amável",
-        "Localidade": "Rio da Janeiro (RJ)",
+        "comportamento": "Ativa e amável",
+        "localidade": "Rio da Janeiro (RJ)",
         "id" : "9"
         
     }
